@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\mmuduli.PARTNERS\Desktop\DHansSsWebSite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/D_HansSs_Villa.pdb" publishTime="03/21/2013 22:46:41" />
+    <file relUrl="ErrorPage.aspx" publishTime="03/19/2013 18:59:45" />
+    <file relUrl="Options.aspx" publishTime="03/16/2013 18:40:46" />
+    <file relUrl="Global.asax" publishTime="03/02/2013 15:03:58" />
+    <file relUrl="Site.Master" publishTime="03/21/2013 18:43:36" />
+    <file relUrl="Styles/Site.css" publishTime="03/16/2013 18:29:26" />
+    <file relUrl="ContactUs.aspx" publishTime="03/16/2013 20:21:10" />
+    <file relUrl="About.aspx" publishTime="03/16/2013 18:34:03" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/02/2013 15:03:57" />
+    <file relUrl="Images/logo.jpg" publishTime="03/02/2013 18:29:41" />
+    <file relUrl="App_Data/ASPNETDB.MDF" publishTime="03/21/2013 22:25:44" />
+    <file relUrl="Extras.aspx" publishTime="03/10/2013 03:38:16" />
+    <file relUrl="Account/Web.config" publishTime="03/02/2013 15:03:57" />
+    <file relUrl="Account/Register.aspx" publishTime="03/17/2013 06:41:55" />
+    <file relUrl="Account/Login.aspx" publishTime="03/02/2013 15:03:57" />
+    <file relUrl="App_Data/aspnetdb_log.LDF" publishTime="03/21/2013 22:25:44" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/02/2013 15:03:57" />
+    <file relUrl="Admin/Web.config" publishTime="03/16/2013 19:16:56" />
+    <file relUrl="Images/Mrunal.jpg" publishTime="03/16/2013 17:45:32" />
+    <file relUrl="Admin/AdminPage.aspx" publishTime="03/21/2013 18:21:08" />
+    <file relUrl="Default.aspx" publishTime="03/16/2013 17:38:08" />
+    <file relUrl="Billing.aspx" publishTime="03/16/2013 23:54:08" />
+    <file relUrl="Images/ErrorPage.jpg" publishTime="03/16/2013 16:52:14" />
+    <file relUrl="bin/D_HansSs_Villa.dll" publishTime="03/21/2013 22:46:42" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="03/02/2013 15:03:57" />
+    <file relUrl="Images/HomePage.jpg" publishTime="03/16/2013 17:28:58" />
+    <file relUrl="Web.config" publishTime="03/21/2013 22:47:03" />
+    <file relUrl="Images/Calculate.jpg" publishTime="03/02/2013 19:05:04" />
+    <file relUrl="Images/Transaction.jpg" publishTime="03/02/2013 19:05:04" />
+    <file relUrl="Transaction.aspx" publishTime="03/10/2013 03:31:37" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="03/02/2013 15:03:57" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/02/2013 15:03:57" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,5 @@
+C:\Users\mmuduli.PARTNERS\documents\visual studio 2010\Projects\D_HansSs_Villa\D_HansSs_Villa\bin\D_HansSs_Villa.dll
+C:\Users\mmuduli.PARTNERS\documents\visual studio 2010\Projects\D_HansSs_Villa\D_HansSs_Villa\bin\D_HansSs_Villa.pdb
+C:\Users\mmuduli.PARTNERS\documents\visual studio 2010\Projects\D_HansSs_Villa\D_HansSs_Villa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mmuduli.PARTNERS\documents\visual studio 2010\Projects\D_HansSs_Villa\D_HansSs_Villa\obj\Debug\D_HansSs_Villa.dll
+C:\Users\mmuduli.PARTNERS\documents\visual studio 2010\Projects\D_HansSs_Villa\D_HansSs_Villa\obj\Debug\D_HansSs_Villa.pdb
